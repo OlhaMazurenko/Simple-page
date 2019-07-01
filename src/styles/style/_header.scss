@@ -1,6 +1,10 @@
+.wrapper {
+  height: 524px;
+  margin: 0 auto;
+  margin-bottom: 39px;
+}
+
 .page-header {
-  height: 60px;
-  margin-bottom: 2px;
   .nav-list {
     height: 60px;
     display: flex;
@@ -21,8 +25,4 @@
       padding: 0;
     }
   }
-}
-
-.main-slider {
-  margin-bottom: 39px;
 }
